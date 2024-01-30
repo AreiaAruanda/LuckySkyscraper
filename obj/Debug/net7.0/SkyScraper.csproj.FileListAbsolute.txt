@@ -1,0 +1,14 @@
+C:\Users\lipsk\source\repos\SkyScraper\bin\Debug\net7.0\SkyScraper.exe
+C:\Users\lipsk\source\repos\SkyScraper\bin\Debug\net7.0\SkyScraper.deps.json
+C:\Users\lipsk\source\repos\SkyScraper\bin\Debug\net7.0\SkyScraper.runtimeconfig.json
+C:\Users\lipsk\source\repos\SkyScraper\bin\Debug\net7.0\SkyScraper.dll
+C:\Users\lipsk\source\repos\SkyScraper\bin\Debug\net7.0\SkyScraper.pdb
+C:\Users\lipsk\source\repos\SkyScraper\obj\Debug\net7.0\SkyScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipsk\source\repos\SkyScraper\obj\Debug\net7.0\SkyScraper.AssemblyInfoInputs.cache
+C:\Users\lipsk\source\repos\SkyScraper\obj\Debug\net7.0\SkyScraper.AssemblyInfo.cs
+C:\Users\lipsk\source\repos\SkyScraper\obj\Debug\net7.0\SkyScraper.csproj.CoreCompileInputs.cache
+C:\Users\lipsk\source\repos\SkyScraper\obj\Debug\net7.0\SkyScraper.dll
+C:\Users\lipsk\source\repos\SkyScraper\obj\Debug\net7.0\refint\SkyScraper.dll
+C:\Users\lipsk\source\repos\SkyScraper\obj\Debug\net7.0\SkyScraper.pdb
+C:\Users\lipsk\source\repos\SkyScraper\obj\Debug\net7.0\SkyScraper.genruntimeconfig.cache
+C:\Users\lipsk\source\repos\SkyScraper\obj\Debug\net7.0\ref\SkyScraper.dll
